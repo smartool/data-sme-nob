@@ -1,15 +1,23 @@
 Abbreviation,Spellout,English gloss,English translation
-N.Acc,Substantiv Akkusativ,,Singular Accusative
-N.Loc,Substantiv Lokativ,,Singular Locative
-N.Ill,Substantiv Illativ,,Singular Illative
-N.Com,Substantiv Komitativ,,Singular Comitative
-N.Gen,Substantiv Genitiv,,Singular Genitive
-N.Nom,Substantiv Nominativ,,Singular Nominative
-V.Ind.Prs,Presens Indikativ,,Third Person Singular Present Tense Indicative
-V.Cond.Prs,Presens Kondisjonalis,,Third Person Singular Present Tense Conditional
-V.Actio.Ess,Aktio Essiv,,Actio Essive
-V.Imprt,Imperativ,,Second Person Singular Imperative
-V.Inf,Infinitiv,,Infinitive
-A.Superl.Attr,Superlativ Attributiv,,Superlative Attributive
-A.Attr,Attributiv,,Attributive
-V.Ind.Prt,Preteritum Indikativ,,Third Person Singular Past Tense Indicative
+N.Sg.Nom,Substantiv entall nominativ,,Noun Singular Nominative
+N.Sg.Acc,Substantiv entall akkusativ,,Noun Singular Accusative
+N.Sg.Gen,Substantiv entall genitiv,,Noun Singular Genitive
+N.Sg.Loc,Substantiv entall lokativ,,Noun Singular Locative
+N.Sg.Ill,Substantiv entall iIllativ,,Noun Singular Illative
+N.Sg.Com,Substantiv entall komitativ,,Noun Singular Comitative
+N.Pl.Acc,Substantiv flertall akkusativ,,Noun Plural Accusative
+N.Pl.Gen,Substantiv flertall genitiv,,Noun Plural Genitive
+N.Pl.Com,Substantiv flertall komitativ ,,Noun Plural Comitative
+V.Ind.Prs.Sg1,Verb indikativ presens 1.p.ent.,,Verb Indicative Present Tense Singular 1. Person
+V.Ind.Prs.Sg2,Verb indikativ presens 2.p.ent.,,Verb Indicative Present Tense Singular 2. Person
+V.Ind.Prs.Sg3,Verb indikativ presens 3.p.ent.,,Verb Indicative Present Tense Singular 3. Person
+V.Ind.Prt.Sg3,Verb indikativ preteritum 3.p.ent.,,Verb Indicative Preteritum Singular 3. Person
+V.Imprt.Sg2,Verb imperativ 2.p.ent.,,Verb Imperative Singular 2. Person
+V.Cond.Prs.Sg3,Verb kondisjonalis presens 3.p.ent.,,Verb Conditional Present Tense Singular 3. Person
+V.Inf,Verb infinitiv,,Verb Infinitive
+V.Actio.Ess,Verb aktio essiv,,Verb Actio Essive
+A.Sg.Nom,Adjektiv entall nominativ,,Adjective Singular Nominative
+A.Sg.Acc,Adjektiv entall akkusativ,,Adjective Singular Accusative
+A.Pl.Nom,Adjektiv flertall nominativ,,Adjective Plural Nominative
+A.Attr,Adjektiv attributiv,,Adjective Attributive
+A.Superl.Attr,Adjektiv superlativ attributiv,,Adjective Superlative Attributive
